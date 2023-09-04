@@ -1,2 +1,14 @@
+ [data-ns-test="block-inline-div"] {
+            display: block;
+            background-color: lightblue;
+            margin: 5px;
+            padding: 5px;
+        }
 
+        [data-ns-test="block-inline-span"] {
+            display: inline;
+            background-color: lightgreen;
+            margin: 5px;
+            padding: 5px;
+        }
 /* Your CSS Code here. */
